@@ -144,7 +144,7 @@ public static void dec_to_bin (int a){                                  //not us
 
 }
 
-// from java built in methods **** Really easy if we use them  lol ;)
+// use java built in methods **** Really easy if we use them  lol ;)
 // from decimal to binary _______    String biinary = Integer.toBinaryString(a);
 // from binary  to decimal_______    int deciimal   = Integer.parseInt(binaryString,2); (String str, int redix)
 
